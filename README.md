@@ -1,17 +1,23 @@
 ### Hi there 👋
 
-🚀
-## About Me
 
-🎓 I am ***Egor Sayenko***, a bachelor of the ***Applied Mathemtics & Informatics*** in the ***Vernadsky CFU*** and I will graduate in mid-2022.
+## 🚀  About Me
 
-🏅 ## Achievements
-⭐Participant of the IT-planet 2019 
-⭐Participant of the ICPC  2019-2020
-⭐Participant of the Huawei Honor Cup 2020 
-🛠️
- ## Skills
+🎓 I am **Egor Sayenko**, a bachelor of the **Applied Mathemtics & Informatics** in the **Vernadsky CFU** and I will graduate in mid-2022.
+
+## 🏅  Achievements
+
+⭐**Participant** of the **IT-planet 2019**
+
+⭐**Participant** of the **ICPC  2019-2020**
+
+⭐**Participant** of the **Huawei Honor Cup 2020 **
+
+## 🛠️ Skills
+
 # Languages
+![java](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!--
 **deservegirl/deservegirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
