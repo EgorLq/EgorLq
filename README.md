@@ -16,7 +16,7 @@
 ## 🛠️ Skills
 
 # Languages
-![java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
+![java][(https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!--
