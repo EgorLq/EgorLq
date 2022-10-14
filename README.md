@@ -1,15 +1,16 @@
 ### Hi there 👋
 
-🚀## About Me
+🚀
+## About Me
 
-🎓 I am _*Egor Sayenko*_, a bachelor of the _*Applied Mathemtics & Informatics*_ in the _*Vernadsky CFU*_ and I will graduate in mid-2022.
+🎓 I am ***Egor Sayenko***, a bachelor of the ***Applied Mathemtics & Informatics*** in the ***Vernadsky CFU*** and I will graduate in mid-2022.
 
 🏅 ## Achievements
 ⭐Participant of the IT-planet 2019 
 ⭐Participant of the ICPC  2019-2020
 ⭐Participant of the Huawei Honor Cup 2020 
-
-🛠️ ## Skills
+🛠️
+ ## Skills
 # Languages
 
 <!--
