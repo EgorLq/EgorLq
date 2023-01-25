@@ -36,7 +36,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## 🔗 Links
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/deservegirl)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/EgorLq)
 <!--
 **deservegirl/deservegirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
