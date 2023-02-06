@@ -12,6 +12,7 @@
 ⭐**Participant** of the **ICPC  2019-2020**
 
 ⭐**Participant** of the **Huawei Honor Cup 2020**
+
 ⭐**Final** GPN Intelligence Cup 2022
 
 ## 🛠️ Skills
