@@ -2,8 +2,9 @@
 
 
 ## 🚀  About Me
-
-🎓 I am **Egor Sayenko**, a bachelor of the **Applied Mathemtics & Informatics** in the **Vernadsky CFU** and I will graduate in mid-2022.
+I am **Egor Sayenko**
+🎓 a bachelor of the **Applied Mathemtics & Informatics** 
+👨‍💻 worked  **backend software engineer**   have been developing in java /kotlin for more than 3 years .
 
 ## 🏅  Achievements
 
