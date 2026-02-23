@@ -2,7 +2,7 @@
 
 
 ## 🚀  About Me
-I am **Egor Sayenko**
+I am **Egor Saenko**
 
 🎓 a bachelor of the **Applied Mathemtics & Informatics** 
 
