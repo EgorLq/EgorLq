@@ -6,7 +6,7 @@ I am **Egor Sayenko**
 
 🎓 a bachelor of the **Applied Mathemtics & Informatics** 
 
-👨‍💻 worked  **backend software engineer**   have been developing in java /kotlin for more than 3 years .
+👨‍💻 worked  **backend software engineer**   have been developing in java /kotlin for more than 5 years .
 
 ## 🏅  Achievements
 
